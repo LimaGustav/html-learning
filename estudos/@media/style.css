@@ -1,0 +1,17 @@
+body {
+    color: red;
+}
+
+.titulo {
+    font-size: 6rem;
+}
+
+.subtitulo {
+    font-size: 4rem;
+}
+
+@media (max-width: 900px) {
+    body {
+        color: blue;
+    }
+}
